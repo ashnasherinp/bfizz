@@ -1,0 +1,84 @@
+
+nav{
+    display: flex;
+    background-color: rgb(21, 3, 68);
+    position: fixed;
+    width: 100%;
+}
+
+nav ul{
+    text-align: center white;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 17px;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px 20px ;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+nav ul li  :hover{
+    color:brown;
+}
+.logo{
+    background: color #333;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.second-section{
+    display: flex;
+
+}
+.grid-1{
+    background-color:yellow ;
+    width: 50%;
+   
+}
+.grid-2{
+    background-color: white;
+    text-align: center;
+    font-size: larger;
+}
+.para{
+    
+text-align: left;
+margin-left: 150px;
+font-size: 23px;
+margin-top: 20px;
+}
+
+.appy{
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+    width: 150px;
+    padding-top:100px;
+    
+
+   
+}
+.fourth-section{
+    display: flex;
+    margin-left: 50px;
+    font-size: 14px;
+    margin-top: 40px;
+    
+}
+.p2{
+    text-align: center;
+    padding-left: 180px;
+}
+.p3{
+    text-align: center;
+    padding-left: 160px;
+}
+i.fa-brands.fa-linkedin{
+height: 40px;
+font-size: 20px;
+}
